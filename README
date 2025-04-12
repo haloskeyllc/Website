@@ -1,8 +1,1 @@
 README
-    <nav class="navbar">
-        <ul>
-            <!-- Links to other pages of the website -->
-            <li><a href="about.html">About</a></li>
-            <li><a href="project.html">Projects</a></li>
-        </ul>
-    </nav>
